@@ -1,2 +1,2 @@
 -Tes Git
--menambahkan teks
+menghapus dan menambahkan teks
